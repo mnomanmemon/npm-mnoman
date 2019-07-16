@@ -1,0 +1,27 @@
+{
+  "name": "mnoman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-noman/npm-mnoman.git"
+  },
+  "keywords": [
+    "business",
+    "card",
+    "mnoman",
+    "Muhammad",
+    "Noman",
+    "e-card"
+  ],
+  "author": "Muhammad Noman <mnomanmemon@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-noman/npm-mnoman/issues"
+  },
+  "homepage": "https://github.com/m-noman/npm-mnoman#readme"
+}

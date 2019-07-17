@@ -1,4 +1,4 @@
-# [ahsanayaz](https://www.npmjs.com/package/mnoman)
+# [mnoman](https://www.npmjs.com/package/mnoman)
 
 <center><img width="550" style="margin-bottom: 20px;" src="card.png" /></center>
 

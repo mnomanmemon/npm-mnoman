@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/m-noman/npm-mnoman/issues"
   },
-  "homepage": "https://github.com/m-noman/npm-mnoman#readme"
+  "homepage": "https://github.com/m-noman/npm-mnoman#readme",
+  "dependencies": {
+    "colorette": "^1.1.0"
+  }
 }

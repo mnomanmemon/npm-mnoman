@@ -14,14 +14,14 @@ const {
   
   const newline = '\n'
   const heading = `${white('  Muhammad Noman /')} ${blueBright('mnoman')}`
-  const working = `${white(bold('     Work:'))}  ${work}`
-  const linkedining = `${white(bold('  LinkedIn:'))} ${linkedIn}`
-  const twittering = `${white(bold('  Twitter:'))}  ${twitter}`
-  const githubing = `${white(bold('   GitHub:'))}  ${github}`
-  const stackoverflowing = `${white(bold('   Stackoverflow:'))}  ${stackoverflow}`;
-  const mediuming = `${white(bold('   Medium:'))}  ${medium}`;
-  const carding = `${white(bold('     Card:'))}  ${npx}`
+  const working = `${white(bold('          Work:'))}  ${work}`
+  const linkedining = `${white(bold('       LinkedIn:'))} ${linkedIn}`
+  const twittering = `${white(bold('       Twitter:'))}  ${twitter}`
+  const githubing = `${white(bold('        GitHub:'))}  ${github}`
+  const stackoverflowing = `${white(bold(' Stackoverflow:'))}  ${stackoverflow}`;
+  const mediuming = `${white(bold('        Medium:'))}  ${medium}`;
+  const carding = `${white(bold('          Card:'))}  ${npx}`
   
-  let output = `${newline} ${newline} ${heading} ${newline} ${newline} ${working} ${newline} ${twittering} ${newline} ${linkedining} ${newline} ${githubing} ${newline} ${newline} ${stackoverflowing} ${newline} ${newline} ${mediuming} ${newline} ${newline} ${carding} ${newline} ${newline}`;
+  let output = `${newline} ${newline} ${heading} ${newline} ${newline} ${working} ${newline} ${twittering} ${newline} ${linkedining} ${newline} ${githubing} ${newline} ${mediuming} ${newline} ${stackoverflowing} ${newline} ${newline} ${carding} ${newline} ${newline}`;
   
   console.log(output)

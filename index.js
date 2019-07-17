@@ -5,11 +5,12 @@ const {
   } = require("colorette");
   
   const work = white(`Software Engineer II @ ${blueBright('AxGuru')}`)
-  const twitter = blueBright('https://twitter.com/NomanM94')
-  const linkedIn = blueBright('https://linkedin.com/in/mnoman94')
-  const github = blueBright('https://github.com/m-noman')
+  const twitter = blueBright('https://twitter.com/mnomanmemon')
+  const linkedIn = blueBright('https://linkedin.com/in/mnomanmemon')
+  const github = blueBright('https://github.com/mnomanmemon')
   const stackoverflow = blueBright('https://stackoverflow.com/users/3276511/muhammad-noman')
   const medium = blueBright('https://medium.com/@mnomanmemon')
+  const web = blueBright('http://imnoman.com')
   const npx = white('npx mnoman')
   
   const newline = '\n'
@@ -20,8 +21,9 @@ const {
   const githubing = `${white(bold('        GitHub:'))}  ${github}`
   const stackoverflowing = `${white(bold(' Stackoverflow:'))}  ${stackoverflow}`;
   const mediuming = `${white(bold('        Medium:'))}  ${medium}`;
+  const webing = `${white(bold('           Web:'))}  ${web}`;
   const carding = `${white(bold('          Card:'))}  ${npx}`
   
-  let output = `${newline} ${newline} ${heading} ${newline} ${newline} ${working} ${newline} ${twittering} ${newline} ${linkedining} ${newline} ${githubing} ${newline} ${mediuming} ${newline} ${stackoverflowing} ${newline} ${newline} ${carding} ${newline} ${newline}`;
+  let output = `${newline} ${newline} ${heading} ${newline} ${newline} ${working} ${newline} ${webing} ${newline} ${mediuming} ${newline} ${twittering} ${newline} ${githubing} ${newline} ${linkedining} ${newline} ${stackoverflowing} ${newline} ${newline} ${carding} ${newline} ${newline}`;
   
   console.log(output)

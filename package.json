@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m-noman/npm-mnoman.git"
+    "url": "git+https://github.com/mnomanmemon/npm-mnoman.git"
   },
   "keywords": [
     "business",
@@ -21,9 +21,9 @@
   "author": "Muhammad Noman <mnomanmemon@outlook.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/m-noman/npm-mnoman/issues"
+    "url": "https://github.com/mnomanmemon/npm-mnoman/issues"
   },
-  "homepage": "https://github.com/m-noman/npm-mnoman#readme",
+  "homepage": "https://github.com/mnomanmemon/npm-mnoman#readme",
   "dependencies": {
     "colorette": "^1.1.0"
   }

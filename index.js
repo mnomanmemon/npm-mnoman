@@ -8,7 +8,7 @@ const {
   const twitter = blueBright('https://twitter.com/mnomanmemon')
   const linkedIn = blueBright('https://linkedin.com/in/mnomanmemon')
   const github = blueBright('https://github.com/mnomanmemon')
-  const stackoverflow = blueBright('https://stackoverflow.com/users/3276511/muhammad-noman')
+  const stackoverflow = blueBright('https://stackoverflow.com/story/mnomanmemon')
   const medium = blueBright('https://medium.com/@mnomanmemon')
   const web = blueBright('http://imnoman.com')
   const npx = white('npx mnoman')

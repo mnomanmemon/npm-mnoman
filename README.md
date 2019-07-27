@@ -1,6 +1,6 @@
 # [mnoman](https://www.npmjs.com/package/mnoman)
 
-<center><img width="550" style="margin-bottom: 20px;" src="pic.png" /></center>
+<center><img width="550" style="margin-bottom: 20px;" src="pic.jpg" /></center>
 
 Having your own npm package is fun.
 
